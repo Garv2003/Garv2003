@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Garv Aggarwal</h1>
 <h3 align="center">A MERN Stack Developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Garv2003&label=Profile%20views&color=0e75b6&style=flat" alt="Garv2003" /> </p>
 
 - 🌱 I’m currently learning **NextJS and React-Native**
 
