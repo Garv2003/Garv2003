@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🌟 Passionate Developer |  ML Enthusiast | C++, JavaScript, Python, & Go Enthusiast🌟<br><br>Hi there! I’m a dedicated developer with experience in C++, JavaScript, and Python, currently diving into Go. My journey spans web development and includes interests in machine learning (ML), deep learning (DL), and data science. I’m exploring various roles including full-stack, back-end, and front-end development, and I’m always eager to learn and collaborate on exciting projects. Let’s build something amazing together!</p>
+<p align="center">🌟 Passionate Developer |  ML Enthusiast | C++, JavaScript, Python, & Go Enthusiast🌟<br><br>Hi there! I’m a dedicated developer with experience in C++, JavaScript, and Python, currently diving into Go. My journey spans web development and includes interests in machine learning (ML), deep learning (DL), and data science. I’m exploring various roles including full-stack, back-end, and front-end development, and I’m always eager to learn and collaborate on exciting projects. Let’s build something amazing together!</p>
 
 ###
 
