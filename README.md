@@ -166,6 +166,6 @@
 
 <br clear="both">
 
-<img src="./snake.yml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/garv2003/garv2003/output/snake.svg" alt="Snake animation" />
 
 ###
