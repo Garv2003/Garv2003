@@ -230,8 +230,8 @@
 
 <h3 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h3>
 
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Garv2003&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" border-radius="15">
+  <div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Garv2003&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
 </div>
 
 ###
