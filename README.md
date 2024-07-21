@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="center">⚡ Languages & Frameworks & Tools⚡</h3>
+<h3 align="center">⚡ LANGUAGES & FRAMEWORKS & TOOLS⚡</h3>
 
 ###
 
@@ -136,7 +136,7 @@
 
 ###
 
-<h3 align="center">🔥 Bucket List 🔥</h3>
+<h3 align="center">🔥 BUCKET LIST 🔥</h3>
 
 ###
 
@@ -197,7 +197,7 @@
 </div>
 
 ###
-<h3 align="center">🎉 Connect With Me 🎉</h3>
+<h3 align="center">🎉 CONNECT WITH ME 🎉</h3>
 
 ###
 
@@ -224,6 +224,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=garv2003&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=garv2003&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=garv2003&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<h3 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h3>
+
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Garv2003&theme=tokyonight&area=false&hide_border=false" border-radius="15">
 </div>
 
 ###
