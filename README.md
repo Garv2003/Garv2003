@@ -231,7 +231,7 @@
 <h3 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h3>
 
   <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Garv2003&bg_color=220a28&&color=#70A5FD&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Garv2003&bg_color=#1A1B27&&color=#70A5FD&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
 </div>
 
 ###
