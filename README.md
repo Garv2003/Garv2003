@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="center">⚡ LANGUAGES & FRAMEWORKS & TOOLS⚡</h3>
+<h2 align="center">⚡ LANGUAGES & FRAMEWORKS & TOOLS⚡</h2>
 
 ###
 
@@ -136,7 +136,7 @@
 
 ###
 
-<h3 align="center">🔥 BUCKET LIST 🔥</h3>
+<h2 align="center">🔥 BUCKET LIST 🔥</h2>
 
 ###
 
@@ -197,7 +197,7 @@
 </div>
 
 ###
-<h3 align="center">🎉 CONNECT WITH ME 🎉</h3>
+<h2 align="center">🎉 CONNECT WITH ME 🎉</h2>
 
 ###
 
@@ -228,13 +228,13 @@
 
 ###
 
-<h3 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h3>
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 
  <div align="center"> 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Garv2003&bg_color=1A1B27&&color=70A5FD&line=38BDAE&point=BF91F3&area=false&hide_border=false" border-radius="15"> 
  </div> 
 
-<h3 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h3>
+<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 
 <p align="center">
     <img src="https://readme-daily-quotes.vercel.app/api?author=Jack%20London&quote=Intelligent%20men%20are%20cruel.%20Stupid%20men%20are%20monstrously%20cruel.&theme=tokyonight&bg_color=1A1B27&author_color=38BDAE&accent_color=70A5FD">
