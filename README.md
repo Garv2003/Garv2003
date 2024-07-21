@@ -228,16 +228,16 @@
 
 ###
 
-<!--<h3 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h3>-->
+<h3 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h3>
 
-<!--  <div align="center"> -->
-<!--     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Garv2003&bg_color=#1A1B27&&color=#70A5FD&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15"> -->
-<!-- </div> -->
+ <div align="center"> -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Garv2003&bg_color=1A1B27&&color=70A5FD&line=38BDAE&point=ffeb95&area=false&hide_border=false" border-radius="15"> 
+ </div> 
 
-<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
+<h3 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h3>
 
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Jack%20London&quote=Intelligent%20men%20are%20cruel.%20Stupid%20men%20are%20monstrously%20cruel.&theme=tokyonight&bg_color=1A1B27&author_color=ffeb95&accent_color=70A5FD">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Jack%20London&quote=Intelligent%20men%20are%20cruel.%20Stupid%20men%20are%20monstrously%20cruel.&theme=tokyonight&bg_color=1A1B27&author_color=38BDAE&accent_color=70A5FD">
 </p>
 
 ###
