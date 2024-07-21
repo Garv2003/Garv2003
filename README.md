@@ -237,7 +237,7 @@
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Jack%20London&quote=Intelligent%20men%20are%20cruel.%20Stupid%20men%20are%20monstrously%20cruel.&theme=tokyonight&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Jack%20London&quote=Intelligent%20men%20are%20cruel.%20Stupid%20men%20are%20monstrously%20cruel.&theme=tokyonight&bg_color=1A1B27&author_color=ffeb95&accent_color=70A5FD">
 </p>
 
 ###
