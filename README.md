@@ -136,7 +136,7 @@
 
 ###
 
-<h2 align="center">🔥 Bucket List 🔥</h2>
+<h3 align="center">🔥 Bucket List 🔥</h3>
 
 ###
 
