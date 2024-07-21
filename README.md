@@ -199,9 +199,32 @@
 </div>
 
 ###
-<h2 align="center">🎉 CONNECT WITH ME 🎉</h2>
+
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=garv2003&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=garv2003&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=garv2003&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
+</div>
 
 ###
+
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+
+ <div align="center"> 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Garv2003&bg_color=1A1B27&&color=70A5FD&line=38BDAE&point=BF91F3&area=false&hide_border=false" border-radius="15"> 
+ </div> 
+
+<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
+
+<p align="center">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Jack%20London&quote=Intelligent%20men%20are%20cruel.%20Stupid%20men%20are%20monstrously%20cruel.&theme=tokyonight&bg_color=1A1B27&author_color=38BDAE&accent_color=70A5FD">
+</p>
+
+###
+
+<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 
 <div align="center">
 <!--   <a href="aggarwalgarv0505@gmail.com" target="_blank">
@@ -222,25 +245,6 @@
 </div>
 
 ###
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=garv2003&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=garv2003&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=garv2003&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
-
- <div align="center"> 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Garv2003&bg_color=1A1B27&&color=70A5FD&line=38BDAE&point=BF91F3&area=false&hide_border=false" border-radius="15"> 
- </div> 
-
-<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
-
-<p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Jack%20London&quote=Intelligent%20men%20are%20cruel.%20Stupid%20men%20are%20monstrously%20cruel.&theme=tokyonight&bg_color=1A1B27&author_color=38BDAE&accent_color=70A5FD">
-</p>
 
 ###
 
