@@ -136,31 +136,7 @@
 
 ###
 
-<h3 align="center">🎉 Connect With Me 🎉</h3>
-
-###
-
-<div align="center">
-<!--   <a href="aggarwalgarv0505@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="51" height="35" alt="gmail logo"  />
-  </a> -->
-  <a href="https://www.linkedin.com/in/garvaggarwal05/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="51" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://codepen.io/Garv2003" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="51" height="35" alt="codepen logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/22573280/garv-aggarwal?tab=profile" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="51" height="35" alt="stackoverflow logo"  />
-  </a>
-  <a href="https://x.com/Garv050" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="51" height="35" alt="twitter logo"  />
-  </a>
-</div>
-
-###
-
-<p align="center">🔥 Bucket List 🔥</p>
+<h2 align="center">🔥 Bucket List 🔥</h2>
 
 ###
 
@@ -221,7 +197,29 @@
 </div>
 
 ###
+<h3 align="center">🎉 Connect With Me 🎉</h3>
 
+###
+
+<div align="center">
+<!--   <a href="aggarwalgarv0505@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="51" height="35" alt="gmail logo"  />
+  </a> -->
+  <a href="https://www.linkedin.com/in/garvaggarwal05/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="51" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://codepen.io/Garv2003" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="51" height="35" alt="codepen logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/22573280/garv-aggarwal?tab=profile" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="51" height="35" alt="stackoverflow logo"  />
+  </a>
+  <a href="https://x.com/Garv050" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="51" height="35" alt="twitter logo"  />
+  </a>
+</div>
+
+###
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=garv2003&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=garv2003&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
