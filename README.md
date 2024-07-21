@@ -246,10 +246,6 @@
 
 ###
 
-###
-
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/garv2003/garv2003/output/snake.svg" alt="Snake animation" />
 
 <p align="center">
@@ -258,8 +254,6 @@
 <!--     <a href="https://github.com/garv2003" target="_blank"><img alt="profile hits" src="https://img.shields.io/jsdelivr/gh/hw/alwinw/alwinw?label=hits&style=flat-square"></a> -->
     <a href="https://github.com/garv2003/garv2003" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/alwinw/alwinw?label=profile%20updated&style=flat-square"></a>
 </p>
-
-###
 
 ###
 
