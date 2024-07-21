@@ -224,8 +224,8 @@
 
 ###
 
-[![Garv2003's GitHub | Dependencies](https://stats.quine.sh/garv2003/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=garv2003)
-[![Garv2003's GitHub | Stats](https://stats.quine.sh/garv2003/github?theme=light)](https://quine.sh)
+<!--[![Garv2003's GitHub | Dependencies](https://stats.quine.sh/garv2003/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=garv2003)
+[![Garv2003's GitHub | Stats](https://stats.quine.sh/garv2003/github?theme=light)](https://quine.sh)-->
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 
