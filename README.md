@@ -7,7 +7,7 @@
 <h3 align="center">Backend Engineer · Java & Spring in production · Go for systems projects · Exploring LLMs & AI systems</h3>
 
 <p align="center">
-  Building distributed Java and Spring microservices at <b>Octro Inc</b> — a large-scale multiplayer slots platform running across <b>54 production service instances</b> on AWS. I work across WebSockets, RabbitMQ, Redis, MongoDB, and ZooKeeper, shipping features end-to-end and carrying on-call for production incidents. On the side I build systems projects in Go: a LeetCode-style code execution engine (worker pool + Docker, cold-start cut from 3.2s to 450ms) and a production-style HTTP load balancer with runtime config reloads.
+  Backend engineer at <b>Octro Inc</b> building distributed Java and Spring microservices across <b>54 production service instances</b> on AWS. I work across WebSockets, RabbitMQ, Redis, MongoDB, and ZooKeeper — shipping features end-to-end and carrying on-call. On the side I build systems projects in Go and explore LLMs and AI infrastructure. CGPA 9.0 · MAIT, New Delhi.
 </p>
 
 ###
@@ -50,6 +50,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=md" height="30" alt="markdown logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="30" alt="google cloud logo"  />
 </div>
 
 ###
