@@ -7,7 +7,7 @@
 <h3 align="center">Backend Engineer · Java & Spring in production · Go for systems projects · Exploring LLMs & AI systems</h3>
 
 <p align="center">
-  Backend engineer at <b>Octro Inc</b> building distributed Java and Spring microservices across <b>54 production service instances</b> on AWS. I work across WebSockets, RabbitMQ, Redis, MongoDB, and ZooKeeper — shipping features end-to-end and carrying on-call. On the side I build systems projects in Go and explore LLMs and AI infrastructure. CGPA 9.0 · MAIT, New Delhi.
+  <b>Best Performer</b> backend engineer at <b>Octro Inc</b> building distributed Java and Spring microservices across <b>54 production service instances</b> on AWS. I work across WebSockets, RabbitMQ, Redis, MongoDB, ZooKeeper, and async Amazon SQS pipelines — plus a polyglot compute layer bridging Java and TypeScript AWS Lambda. Shipping features end-to-end and carrying on-call. On the side I build systems projects in Go and explore LLMs and AI infrastructure. CGPA 9.0 · MAIT, New Delhi.
 </p>
 
 ###
