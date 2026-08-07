@@ -31,12 +31,29 @@ across a 54-service platform on AWS — WebSockets, RabbitMQ, Redis, MongoDB, Zo
 Amazon SQS pipelines, plus a polyglot Java ↔ TypeScript Lambda compute layer. I ship features
 end-to-end and carry on-call.
 
-## ⚙️ Systems I've built (open source)
+## ⚙️ Systems & AI infrastructure I've built
 
-- **[code-execution-engine](https://github.com/garv2003/code-execution-engine)** — LeetCode-style code execution backend in Go: Docker sandboxing, worker pool, real-time SSE streaming
-- **[go-load-balancer](https://github.com/garv2003/go-load-balancer)** — HTTP load balancer in Go: round-robin/random routing, health checks, runtime config reload via SIGHUP
-- **[ssh-server](https://github.com/garv2003/ssh-server)** — SSH server in Go: custom protocol handling and session management
-- **[Server-Sent-Events](https://github.com/garv2003/Server-Sent-Events)** — real-time event streaming: Go backend pushing live updates to browser clients
+Self-authored side projects — real code with tests, metrics, and design docs. Grouped by theme.
+
+**Distributed systems**
+
+| Project | What it demonstrates | Stack |
+|---|---|---|
+| **[wal-kv-store](https://github.com/Garv2003/wal-kv-store)** | Durable key-value store: write-ahead log → crash recovery → compaction → **Raft replication** (3-node), with fault-injection crash tests + a design doc | Go · hashicorp/raft |
+| **[code-execution-engine](https://github.com/Garv2003/code-execution-engine)** | Runs untrusted code in hardened Docker sandboxes (drop-caps · no network · PID/mem limits), Redis job queue + worker pool, SSE result streaming, Prometheus metrics + threat model | Go · Docker · Redis |
+| **[distributed-rate-limiter](https://github.com/Garv2003/distributed-rate-limiter)** | Pluggable strategies (token-bucket / sliding-window / Redis+Lua for cross-instance limits), HTTP + gRPC APIs, Prometheus, Docker Compose | Go · Redis · gRPC |
+| **[payments-ledger](https://github.com/Garv2003/payments-ledger)** | Double-entry accounting service: idempotent transfers + transactional outbox — no double-spend, no dual-write races | Go · Postgres |
+| **[cdc-pipeline](https://github.com/Garv2003/cdc-pipeline)** | Change-data-capture: DB change stream → Kafka → idempotent sink, with a dead-letter path + replication-lag metrics | Go · Mongo · Kafka |
+
+**AI infrastructure & products**
+
+| Project | What it demonstrates | Stack |
+|---|---|---|
+| **[llm-gateway](https://github.com/Garv2003/llm-gateway)** | OpenAI-compatible gateway that routes each request to the cheapest capable model + a semantic response cache + per-key rate limiting + cost metrics | Go · Redis |
+| **[vidbite](https://github.com/Garv2003/vidbite)** | AI YouTube-video summarizer — full-stack, JWT auth, Dockerized and deploy-ready | React · Flask · Gemini |
+| **[livepolls](https://github.com/Garv2003/livepolls)** | Real-time audience polling with a live word cloud (Slido-style) over WebSockets | socket.io · Redis pub/sub |
+
+**Also:** [go-load-balancer](https://github.com/Garv2003/go-load-balancer) (HTTP LB · health checks · hot config reload via fsnotify) · [EnvBox](https://github.com/Garv2003/EnvBox) (env manager with client-side AES-GCM encryption) · [ssh-server](https://github.com/Garv2003/ssh-server) · [go-cli-tool](https://github.com/Garv2003/go-cli-tool)
 
 ## 🧰 Tech
 
